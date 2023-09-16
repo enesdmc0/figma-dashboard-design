@@ -9,7 +9,7 @@
 
 
 
-> **Live Link:**  [https://nextjs-v13-tesla-clone.vercel.app/](https://nextjs-v13-tesla-clone.vercel.app/)
+> **Live Link:**  [https://figma-dashboard-design.vercel.app/](https://figma-dashboard-design.vercel.app/)
 
 
 ![][img2]
@@ -42,7 +42,7 @@ npm run build && npm start
 
 > ### Project Link
 >
-> [**https://github.com/enesdmc0/Nextjs13-AirBnB-Clone**][projectLink]
+> [**https://github.com/enesdmc0/figma-dashboard-design**][projectLink]
 
 ## Contact
 
@@ -69,7 +69,7 @@ npm run build && npm start
 [mail]: enesdmcc@gmail.com
 [twitter]: https://twitter.com/enesdmc00
 [linkedin]: inkedin.com/in/enesdemirci1
-[projectLink]: https://github.com/enesdmc0/Nextjs-v13-Tesla-clone-
+[projectLink]: [https://github.com/enesdmc0/figma-dashboard-design](https://github.com/enesdmc0/figma-dashboard-design)
 
 
 
