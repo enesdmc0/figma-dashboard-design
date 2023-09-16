@@ -2,7 +2,7 @@ import React from 'react';
 import {AlignCenterVertical, BarChart2, Copy, Home, LogOut, Settings, Sun} from "lucide-react";
 
 
-const data = [Home, Settings, Copy, BarChart2]
+const data = [Home, Settings, BarChart2, Copy]
 
 const Sidebar = () => {
     return (
@@ -11,7 +11,7 @@ const Sidebar = () => {
                 <AlignCenterVertical className="h-7 w-7"/>
                 <div className="flex flex-col gap-5">
                     {data.map((Icon, i) => (
-                        <span className="p-2 cursor-pointer rounded-xl bg-pink-200/60" key={i}>
+                        <span  className={`p-2 cursor-pointer rounded-xl ${Icon === Copy ? "bg-white text-pink-300/60" : "bg-pink-200/60 text-white"} `} key={i}>
                             <Icon/>
                         </span>
                     ))}
